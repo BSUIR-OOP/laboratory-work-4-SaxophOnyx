@@ -1,0 +1,5 @@
+D:\Мои файлы\Учеба\ООТПиСП\lab4\DependencyInjectionLibrary\bin\Debug\DependencyInjectionLibrary.dll
+D:\Мои файлы\Учеба\ООТПиСП\lab4\DependencyInjectionLibrary\bin\Debug\DependencyInjectionLibrary.pdb
+D:\Мои файлы\Учеба\ООТПиСП\lab4\DependencyInjectionLibrary\obj\Debug\DependencyInjectionLibrary.csproj.CoreCompileInputs.cache
+D:\Мои файлы\Учеба\ООТПиСП\lab4\DependencyInjectionLibrary\obj\Debug\DependencyInjectionLibrary.dll
+D:\Мои файлы\Учеба\ООТПиСП\lab4\DependencyInjectionLibrary\obj\Debug\DependencyInjectionLibrary.pdb
